@@ -1,0 +1,112 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1367" measuredH="962" mockupW="1333" mockupH="962">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="34" y="0" w="1333" h="962" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="102" y="92" w="1026" h="95" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>72</size>
+        <text>%20%20%20%20%20%20%20%20Accountant%20Friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="1012" y="199" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="102" y="202" w="-1" h="-1" measuredW="449" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Home%2C%20About%20us%2C%20Forums%2C%20Events%2C%20Jobs%2C%20Blog%2C%20Help%2C%20Contact%20Us</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="1149" y="175" w="-1" h="-1" measuredW="51" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="102" y="234" w="816" h="89" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Accountant%20Friends%21%20A%20place%20where%20Accountant%27s%20can%20come%20together%20to%20discuss%20pressing%20issues%2C%20new%20ideas%20and%20organise%20meet%20and%20greets%20or%20find%20that%20new%20job%21%20We%20have%20industry%20experts%20to%20assist%20you%20with%20your%20questions%20and%20provide%20webinars%20on%20new%20tricks%20and%20techniques.%20%0A%20%0ACheck%20out%20the%20video%20below%20to%20see%20what%20Accountant%20Friends%20can%20help%20you%20achieve%20and%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20for%20an%20amazing%20experience%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="102" y="368" w="816" h="337" measuredW="300" measuredH="200" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="615" y="304" w="-1" h="-1" measuredW="51" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Map" x="1012" y="483" w="-1" h="-1" measuredW="252" measuredH="222" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="1012" y="410" w="252" h="73" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next%20Event%3A%20Monthly%20Drinks%2028/06/2013%0AWhere%3A%20The%20Pub%0ATime%3A%206pm%20Onwards%0AClick%20%20%20%20%20%20%20%20for%20future%20events</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="1050" y="464" w="-1" h="-1" measuredW="26" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>here</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="1145" y="838" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="1169" y="838" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="1200" y="838" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LinkedInIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Icon" x="1232" y="838" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RSSIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::LinkBar" x="102" y="838" w="-1" h="-1" measuredW="413" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Home%2C%20About%20us%2C%20Events%2C%20Jobs%2C%20Blog%2C%20Help%2C%20Careers%20with%20us</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextArea" x="601" y="904" w="227" h="30" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accountant%20Friends%20Copyright%202013</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="1150" y="96" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="1149" y="126" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::CheckBox" x="1149" y="153" w="-1" h="-1" measuredW="107" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remember%20me</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="1149" y="198" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Forgotten%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextArea" x="1011" y="240" w="253" h="155" measuredW="200" measuredH="140" zOrder="21" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Looking%20to%20further%20your%20career%20as%20a%20CPA%3F%0A%20%0A%20%0A%20%0A%20%0AClick%20here%20for%20an%20Accountant%20Friends%20discount%20on%20the%20course</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
